@@ -1,0 +1,24 @@
+﻿  源.cpp
+d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(446): warning C4477: “fscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“float *”
+  d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(446): note: 此参数用作缓冲区大小
+d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(446): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+  d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(446): note: 占位符和其参数预计 15 可变参数，但提供的却是 14 参数
+  d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(446): note: 缺失的可变参数 15 为格式字符串“%f”所需
+d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(721): warning C4101: “tmep”: 未引用的局部变量
+d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(1415): warning C4101: “name”: 未引用的局部变量
+d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(1414): warning C4101: “n”: 未引用的局部变量
+d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(1946): warning C4477: “fscanf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“TCHAR (*)[20]”
+  d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(1946): note: 此参数由转换说明符使用
+  d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(1946): note: 请考虑在格式字符串中使用“%ls”
+  d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(1946): note: 请考虑在格式字符串中使用“%lls”
+  d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(1946): note: 请考虑在格式字符串中使用“%Ls”
+  d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(1946): note: 请考虑在格式字符串中使用“%ws”
+d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(1946): warning C4477: “fscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“TCHAR (*)[20]”
+  d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(1946): note: 此参数用作缓冲区大小
+d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(1946): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+  d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(1946): note: 占位符和其参数预计 4 可变参数，但提供的却是 2 参数
+  d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(1946): note: 缺失的可变参数 3 为格式字符串“%s”所需
+  d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(1946): note: 此参数由转换说明符使用
+d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(1952): warning C4477: “fprintf_s”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“const wchar_t *”
+d:\桌面\my_workfiles\课设fifa\fifa开发文件\界面demo\界面demo\源.cpp(1791): warning C4715: “ability_num”: 不是所有的控件路径都返回值
+  界面DEMO.vcxproj -> D:\桌面\My_Workfiles\课设FIFA\FIFA开发文件\界面DEMO\Debug\界面DEMO.exe
